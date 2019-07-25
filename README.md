@@ -1,1 +1,1 @@
-# docker-spring-boot
+# docker-spring-boot project for creating CI/CD using jenkins and docker
